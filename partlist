@@ -1,0 +1,70 @@
+Partlist
+========
+
+Part     Value          Device          
+
+C1       1uF            Electrolytic Capacitor
+C2       1uF            Electrolytic Capacitor
+C3       47uF           Electrolytic Capacitor
+C4       100nF          Capacitor
+C5       1uF            Electrolytic Capacitor
+C6       1uF            Electrolytic Capacitor
+C7       1uF            Electrolytic Capacitor    
+C8       1uF            Electrolytic Capacitor    
+C9       33nF           Capacitor 
+C10      3.3nF          Capacitor 
+C11      1uF            Electrolytic Capacitor    
+C12      470P           Capacitor 
+C13      100nF          Capacitor 
+C14      470pF          Capacitor 
+C15      100nF          Capacitor 
+C16      47nF           Capacitor 
+C17      1uF            Electrolytic Capacitor    
+C18      100uF          Electrolytic Capacitor    
+C19      100nF          Capacitor 
+C20      470pF          Capacitor 
+CLIP     500kbLog       Potentiometer             
+CRUNCH   470KALinear    Potentiometer             
+D1       1n4148         Diode  
+D2       1n4148         Diode  
+D3       1n4148         Diode  
+D4       red 3.5mm      LED         
+D6       1n4148         Diode  
+D7       red 3.5mm      LED         
+FILTER   100KBLog       Potentiometer             
+LOUDNESS 100KBLog       Potentiometer             
+Q1       2N3904         Transistor
+Q2       2N3904         Transistor      
+Q3       2N3904         Transistor      
+Q4       2N3904         Transistor      
+R1       1K             Resistor 1/4W
+R2       4k7            Resistor 1/4W
+R3       33k            Resistor 1/4W
+R4       10             Resistor 1/4W
+R5       10k            Resistor 1/4W
+R6       10k            Resistor 1/4W
+R7       1k5            Resistor 1/4W
+R8       100k           Resistor 1/4W
+R9       4k7            Resistor 1/4W
+R10      10k            Resistor 1/4W
+R11      47k            Resistor 1/4W
+R12      100            Resistor 1/4W
+R13      10k            Resistor 1/4W
+R14      10k            Resistor 1/4W
+R15      10k            Resistor 1/4W
+R16      470k           Resistor 1/4W
+R17      1k5            Resistor 1/4W
+R18      470k           Resistor 1/4W
+R19      100            Resistor 1/4W
+R20      4k7            Resistor 1/4W
+R21      100K           Resistor 1/4W
+R22      10k            Resistor 1/4W
+R23      100            Resistor 1/4W
+R24      33k            Resistor 1/4W
+R26      100k           Resistor 1/4W
+R27      470k           Resistor 1/4W
+R28      150            Resistor 1/4W
+R30      1M             Resistor 1/4W
+SCOOP    50KBLog        Potentiometer             
+SUSTAIN  100KBLog       Potentiometer             
+VOICE    500KBLog       Potentiometer             
